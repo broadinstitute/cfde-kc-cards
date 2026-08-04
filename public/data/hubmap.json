@@ -1,0 +1,8 @@
+{
+  "title": "Spatial Cell Neighborhoods in HuBMAP Samples",
+  "image": "assets/hubmap.svg",
+  "imageAlt": "Sample visualization for HuBMAP secondary analysis results",
+  "description": "The Knowledge Center summarized HuBMAP tissue maps into reusable neighborhood-level signals so users can compare spatial patterns across organs and assays.",
+  "buttonLabel": "View KC Results",
+  "url": "https://cfdeknowledge.org/"
+}

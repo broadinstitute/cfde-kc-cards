@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KC Card Demo</title>
+  <script type="module" src="/src/index.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f5f7fa;
+      color: #1f2937;
+    }
+
+    main {
+      display: grid;
+      gap: 24px;
+      margin: 0 auto;
+      padding: 0 100px;
+    }
+
+    .demo-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 20px;
+    }
+
+    .demo-example {
+      display: grid;
+      gap: 40px;
+      min-width: 0;
+    }
+
+    .demo-code {
+      margin: 0;
+      overflow-x: auto;
+      padding: 12px;
+      border-radius: 8px;
+      background: #111827;
+      color: #f9fafb;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .demo-code__dim {
+      color: #9ca3af;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>KC Card Widget</h1>
+
+    <div class="demo-grid">
+      <div class="demo-example">
+        <kc-card data-dcc="kids-first"></kc-card>
+        <pre class="demo-code"><code><span class="demo-code__dim">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;</span>
+  &lt;script src="https://cdn.jsdelivr.net/gh/broadinstitute/cfde-kc-cards@main/dist/kc-card.js"&gt;&lt;/script&gt;
+<span class="demo-code__dim">&lt;/head&gt;
+&lt;body&gt;</span>
+  &lt;kc-card data-dcc="kids-first"&gt;&lt;/kc-card&gt;
+<span class="demo-code__dim">&lt;/body&gt;
+&lt;/html&gt;</span></code></pre>
+      </div>
+
+      <div class="demo-example">
+        <kc-card data-dcc="hubmap" data-layout="horizontal"></kc-card>
+        <pre class="demo-code"><code><span class="demo-code__dim">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;</span>
+  &lt;script src="https://cdn.jsdelivr.net/gh/broadinstitute/cfde-kc-cards@main/dist/kc-card.js"&gt;&lt;/script&gt;
+<span class="demo-code__dim">&lt;/head&gt;
+&lt;body&gt;</span>
+  &lt;kc-card data-dcc="hubmap" data-layout="horizontal"&gt;&lt;/kc-card&gt;
+<span class="demo-code__dim">&lt;/body&gt;
+&lt;/html&gt;</span></code></pre>
+      </div>
+    </div>
+  </main>
+</body>
+</html>

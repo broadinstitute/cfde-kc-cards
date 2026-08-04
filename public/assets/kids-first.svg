@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 640 360"
+   role="img"
+   aria-labelledby="title desc"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="kids-first.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.65555556"
+     inkscape:cx="319.57627"
+     inkscape:cy="180"
+     inkscape:window-width="1312"
+     inkscape:window-height="431"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3" />
+  <title
+     id="title">Kids First sample card artwork</title>
+  <desc
+     id="desc">Simple placeholder artwork for the Kids First card.</desc>
+  <rect
+     width="640"
+     height="360"
+     fill="#e7f0ff"
+     id="rect1"
+     style="fill:none" />
+  <circle
+     cx="214"
+     cy="176"
+     r="74"
+     fill="#7aa7e8"
+     id="circle1" />
+  <circle
+     cx="304"
+     cy="152"
+     r="56"
+     fill="#f4c95d"
+     id="circle2" />
+  <circle
+     cx="392"
+     cy="190"
+     r="70"
+     fill="#79c6a3"
+     id="circle3" />
+  <text
+     x="320"
+     y="292"
+     fill="#1f2937"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="38"
+     font-weight="700"
+     text-anchor="middle"
+     id="text3">Kids First</text>
+</svg>

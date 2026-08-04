@@ -1,0 +1,17 @@
+{
+  "name": "@broadinstitute/cfde-kc-cards",
+  "version": "0.1.0",
+  "type": "module",
+  "files": [
+    "dist",
+    "public"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1",
+    "vite-plugin-css-injected-by-js": "^4.0.1"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Pediatric Variant Signals Across CFDE Tissues",
+  "image": "assets/kids-first.svg",
+  "imageAlt": "Sample visualization for Kids First secondary analysis results",
+  "description": "The Knowledge Center re-analyzed Kids First data to highlight tissue-linked variant patterns that may help researchers prioritize follow-up pediatric disease questions.",
+  "buttonLabel": "View KC Results",
+  "url": "https://cfdeknowledge.org/"
+}
