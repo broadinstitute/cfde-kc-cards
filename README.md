@@ -9,6 +9,20 @@ npm install
 npm run dev
 ```
 
+## Demo
+
+The demo is published with GitHub Pages at:
+
+```text
+https://broadinstitute.github.io/cfde-kc-cards/
+```
+
+The Pages artifact is built with:
+
+```bash
+npm run build:pages
+```
+
 ## Build
 
 ```bash
