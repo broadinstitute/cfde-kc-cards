@@ -1,8 +1,8 @@
 {
-  "title": "Pediatric Variant Signals Across CFDE Tissues",
-  "image": "assets/kids-first.svg",
+  "title": "Kids First Results on the Common Fund Data Ecosystem Knowledge Center (CFDE KC)",
+  "image": "assets/kc-kidsfirst.png",
   "imageAlt": "Sample visualization for Kids First secondary analysis results",
-  "description": "The Knowledge Center re-analyzed Kids First data to highlight tissue-linked variant patterns that may help researchers prioritize follow-up pediatric disease questions.",
+  "description": "How do aggregated variant counts in a gene compare between Kids First pediatric disease cohorts relative to gnomAD population controls?",
   "buttonLabel": "View KC Results",
-  "url": "https://cfdeknowledge.org/"
+  "url": "https://cfdeknowledge.org/r/kc_entity_gene?gene=SHH"
 }

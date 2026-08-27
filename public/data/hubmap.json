@@ -1,8 +1,8 @@
 {
-  "title": "Spatial Cell Neighborhoods in HuBMAP Samples",
-  "image": "assets/hubmap.svg",
-  "imageAlt": "Sample visualization for HuBMAP secondary analysis results",
-  "description": "The Knowledge Center summarized HuBMAP tissue maps into reusable neighborhood-level signals so users can compare spatial patterns across organs and assays.",
+  "title": "HuBMAP Results on the Common Fund Data Ecosystem Knowledge Center (CFDE KC)",
+  "image": "assets/kc-hubmap.png",
+  "imageAlt": "Sample visualization for HuBMAP analysis results",
+  "description": "Explore interactive gene expression plots derived from single cell RNA sequencing data from 7 human tissues from HuBMAP.",
   "buttonLabel": "View KC Results",
-  "url": "https://cfdeknowledge.org/"
+  "url": "https://cfdeknowledge.org/r/kc_entity_gene?gene=MYH6"
 }

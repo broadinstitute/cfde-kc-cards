@@ -1,0 +1,8 @@
+{
+  "title": "GTEx Results on the Common Fund Data Ecosystem Knowledge Center (CFDE KC)",
+  "image": "assets/kc-gtex.png",
+  "imageAlt": "Sample visualization for GTEx secondary analysis results",
+  "description": "How specific is the expression of a gene and how does it compare across GTEx tissues and organ categories?",
+  "buttonLabel": "View KC Results",
+  "url": "https://cfdeknowledge.org/r/kc_entity_gene?gene=SHH"
+}
