@@ -12,7 +12,7 @@
     "build:pages": "npm run build && node scripts/build-pages.js"
   },
   "devDependencies": {
-    "vite": "^7.3.1",
+    "vite": "^7.3.7",
     "vite-plugin-css-injected-by-js": "^4.0.1"
   }
 }
